@@ -4,7 +4,7 @@
 >[!IMPORTANT]
 >Review **synthetic_data.ipynb**
 
-**In (3)**: I defined a predetermine set of merchants and categories.  ##
+**In (3)**: I defined a predetermine set of merchants and categories.  
 **In (4)**: This is the actual generation of transactional data. It's generated randomly between two dates, time, and the amount is random.  
 **In (5) & (6)**: These are the saving of the data to CSV and JSON files.  
 **In (7)**: This is the main function, and calls upon the other three functions to generate and save the data.  
